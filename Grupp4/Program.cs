@@ -5,6 +5,6 @@ internal class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
-        Console.WriteLine("Hej igen från Rasmus!!");
+        Console.WriteLine("Hejhej // markus");
     }
 }
