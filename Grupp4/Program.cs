@@ -7,9 +7,13 @@ internal class Program
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hejhej // markus");
         Console.WriteLine("Hejhej!!! / Rasmus");
+
         for (int i = 0; i < 3; i++)
         {
             Console.WriteLine("HEEEEEEEJ");
         }
+
+        Console.WriteLine("Message from Sami");
+
     }
 }
