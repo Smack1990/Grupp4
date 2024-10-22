@@ -8,5 +8,6 @@ internal class Program
         Console.WriteLine("Hejhej // markus");
         Console.WriteLine("Hejhej!!! / Rasmus");
         Console.WriteLine("HateGit");
+        Console.WriteLine("hello again from sami");
     }
 }
